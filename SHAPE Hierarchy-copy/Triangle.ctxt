@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\n\ Write\ a\ description\ of\ class\ Triangle\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=c\ fill\ s1\ s2\ s3
+comment1.target=Triangle(java.lang.String,\ boolean,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ getSide1()
+comment3.params=
+comment3.target=double\ getSide2()
+comment4.params=
+comment4.target=double\ getSide3()
+comment5.params=side1\ side2\ side3
+comment5.target=double\ calculateArea(double,\ double,\ double)
+comment6.params=side1\ side2\ side3
+comment6.target=double\ calculatePerimeter(double,\ double,\ double)
+numComments=7
